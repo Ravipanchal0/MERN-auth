@@ -59,7 +59,7 @@ project-root/
 
 ```bash
 git clone https://github.com/your-username/mern-auth-webapp.git
-cd mern-auth-webapp
+cd Mearn-auth
 
 cd server
 npm install
